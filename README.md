@@ -16,7 +16,7 @@ This folder contains only the core code needed to:
 python srm_cosine_pipeline.py --config config.example.json
 ```
  
-## Input data format
+## Input data format 
 
 The pipeline expects a pickle file with:
 
