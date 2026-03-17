@@ -46,7 +46,7 @@ Results are saved per subject under the configured output directory:
 - `hyperparameters.json`
 
 ## Notes
-
+ 
 - Text PCA is fit on the train split only.
 - SRM standardization is computed per subject using train samples only.
 - Final target z-scoring is also computed from the train split only.
