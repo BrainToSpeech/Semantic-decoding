@@ -51,3 +51,4 @@ Results are saved per subject under the configured output directory:
 - SRM standardization is computed per subject using train samples only.
 - Final target z-scoring is also computed from the train split only.
 - Test performance is reported with cosine similarity and MSE. 
+ 
