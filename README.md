@@ -39,7 +39,7 @@ And a text embedding `.npy` file with shape:
 ```
 
 ## Outputs
-
+ 
 Results are saved per subject under the configured output directory:
 
 - `test_metrics.json`
