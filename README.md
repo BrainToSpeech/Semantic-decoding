@@ -28,7 +28,7 @@ The pipeline expects a pickle file with:
     "highgamma": (timepoints, n_channels),
     "onset": (n_words,), 
     "word": (n_words,)   
-  }
+  } 
 }
 ```  
   
