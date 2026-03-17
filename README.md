@@ -26,7 +26,7 @@ The pipeline expects a pickle file with:
   "word_data": {
     "subj": (n_channels,),
     "highgamma": (timepoints, n_channels),
-    "onset": (n_words,),
+    "onset": (n_words,), 
     "word": (n_words,)  
   }
 }
