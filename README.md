@@ -1,4 +1,4 @@
-# Semantic-Dicoding
+# Semantic-Decoding
 
 Minimal SRM-based semantic decoding pipeline for podcast ECoG data.
 
