@@ -13,7 +13,7 @@ This folder contains only the core code needed to:
 ## Run
  
 ```bash
-python srm_cosine_pipeline.py --config config.example.json
+python srm_cosine_pipeline.py --config config.example.json 
 ```
  
 ## Input data format 
