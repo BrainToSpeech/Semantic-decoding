@@ -15,14 +15,14 @@ This folder contains only the core code needed to:
 ```bash
 python srm_cosine_pipeline.py --config config.example.json
 ```
-
+ 
 ## Input data format
 
 The pipeline expects a pickle file with:
 
 ```python
 {
-  "significant_elecs": (n_channels,),
+  "significant_elecs": (n_channels,), 
   "word_data": {
     "subj": (n_channels,),
     "highgamma": (timepoints, n_channels),
