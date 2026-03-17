@@ -30,7 +30,7 @@ The pipeline expects a pickle file with:
     "word": (n_words,)  
   }
 }
-```
+``` 
  
 And a text embedding `.npy` file with shape:
 
