@@ -31,7 +31,7 @@ The pipeline expects a pickle file with:
   }
 }
 ```  
- 
+  
 And a text embedding `.npy` file with shape:
 
 ```python 
