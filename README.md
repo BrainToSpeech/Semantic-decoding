@@ -5,7 +5,7 @@ Minimal SRM-based semantic decoding pipeline for podcast ECoG data.
 This folder contains only the core code needed to: 
 
 1. Load podcast high-gamma neural data and text embeddings
-2. Build subject-wise neural targets from word onsets 
+2. Build subject-wise neural targets from word onsets  
 3. Optionally fit SRM on selected subjects   
 4. Train a text-to-neural decoder per subject 
 5. Compare performance with cosine similarity on the test split
@@ -14,11 +14,11 @@ This folder contains only the core code needed to:
  
 ```bash
 python srm_cosine_pipeline.py --config config.example.json 
-```
+``` 
  
 ## Input data format 
 
-The pipeline expects a pickle file with:
+The pipeline expects a pickle file with: 
 
 ```python
 {
