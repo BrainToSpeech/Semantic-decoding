@@ -23,7 +23,7 @@ The pipeline expects a pickle file with:
 ```python
 {
   "significant_elecs": (n_channels,), 
-  "word_data": {
+  "word_data": { 
     "subj": (n_channels,),
     "highgamma": (timepoints, n_channels),
     "onset": (n_words,), 
