@@ -11,7 +11,7 @@ This folder contains only the core code needed to:
 5. Compare performance with cosine similarity on the test split
  
 ## Run
-
+ 
 ```bash
 python srm_cosine_pipeline.py --config config.example.json
 ```
